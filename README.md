@@ -35,6 +35,12 @@ A responsive fan website built to strengthen my HTML and CSS skills, with a focu
 
 **🧰 Technologies:** HTML • CSS
 
+### 💻 Dev Stack Website
+
+A responsive technology website created with HTML , CSS and React to strengthen my react skill . I have made the website that can also driven through mobile to any devices.
+
+**🧰 Technologies:** HTML • CSS • React 
+
 ---
 
 ## 🌱 Currently Exploring
